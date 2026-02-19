@@ -1,0 +1,6 @@
+myvar = "sanjar"
+my_var = "sanjar"
+_my_var = "sanjar"
+myVar = "sanjar"
+MYVAR = "sanjar"
+myvar2 = "sanjar"
