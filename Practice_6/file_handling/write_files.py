@@ -1,0 +1,6 @@
+f = open("dfile.txt", "a")
+print(f.write("Hello, World"))
+f.close()
+f = open("dfile.txt", "r")
+print(f.read())
+f.close()
