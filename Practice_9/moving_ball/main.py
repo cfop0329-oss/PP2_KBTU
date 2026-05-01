@@ -26,7 +26,6 @@ def draw_hud(surface, ball, font):
     text = font.render(info, True, (200, 200, 200))
     surface.blit(text, text.get_rect(center=(surface.get_width() // 2, surface.get_height() - 18)))
 
-
 def main():
     pygame.init()
 
